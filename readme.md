@@ -1,4 +1,4 @@
-## Materialize Blog
+## Blog
 
 A new blog manage system disigned according to Google [Material Design Spec](https://www.google.com/design/spec/material-design/introduction.html).
 
@@ -44,11 +44,3 @@ to migrate the tables. You'd better not miss the `--seed` option, because it wil
 
 login dashboard at `/login`, default name `admin` or email `admin@example.com` , passowrd `admin`
 
-### License
-
-![](http://i.imgur.com/8ZtPnc7.png)
-
-http://www.gnu.org/licenses/lgpl.txt
-
-
-## CREATE NICE ARTICLES.
